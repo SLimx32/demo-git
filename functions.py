@@ -5,3 +5,4 @@ def cleanup(string):
 
 
 print(cleanup("     hai sa vedem faca merge"))
+print(cleanup("     am mai facut inca un rand de  reabilitat"))
